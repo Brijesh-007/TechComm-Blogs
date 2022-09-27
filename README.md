@@ -1,23 +1,12 @@
-# Next.js + Tailwind CSS Example
-
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+# Output
+![Picture2](https://user-images.githubusercontent.com/60062638/192488284-9c12155e-8da0-4a9f-ad91-b925cf3d3bc7.png)
+![Picture3](https://user-images.githubusercontent.com/60062638/192488495-7cfd5566-4040-4055-927b-d78fe0cef5d8.jpg)
+![Picture4](https://user-images.githubusercontent.com/60062638/192488598-da250f1e-e2db-44a1-94e0-03a25b843bd4.jpg)
+![Picture5](https://user-images.githubusercontent.com/60062638/192488662-774b3e8f-fb3a-42a2-a32a-825c0871a2dc.jpg)
+![Picture6](https://user-images.githubusercontent.com/60062638/192488788-81113ce4-3883-43d6-abe9-0c1cf49dac1c.jpg)
+![Picture7](https://user-images.githubusercontent.com/60062638/192488846-06fc976a-324f-463f-8d33-b290c1539f33.jpg)
+![Picture8](https://user-images.githubusercontent.com/60062638/192488912-5638482f-f234-4896-837a-99328f714af1.jpg)
+![Picture9](https://user-images.githubusercontent.com/60062638/192488924-93731692-8119-4404-ab59-c99d6a01942a.jpg)
+![Picture10](https://user-images.githubusercontent.com/60062638/192488969-271c4cba-03d2-4f21-9e14-ea828d0816f0.jpg)
+![Picture11](https://user-images.githubusercontent.com/60062638/192488987-98c0d1ea-0aae-4ed5-acdf-d84ecf63a71f.jpg)
+![Picture1](https://user-images.githubusercontent.com/60062638/192489001-74ba2da2-0f89-4ebb-9ab6-0d1ead213ac3.png)
